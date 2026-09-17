@@ -2,9 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//aeiou.now//Annual holiday calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:चीन 2026
+X-WR-CALNAME:चीन
 X-WR-CALDESC:2026 में चीन में 7 सार्वजनि
- क अवकाश हैं।
+ क अवकाश हैं। 2027 में चीन में 7 स
+ ार्वजनिक अवकाश हैं। 2028 में च
+ ीन में 7 सार्वजनिक अवकाश हैं
+ ।
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
