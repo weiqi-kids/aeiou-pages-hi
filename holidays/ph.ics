@@ -1,0 +1,482 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:फ़िलिपींस
+X-WR-CALDESC:2026 में फ़िलिपींस में 12 सा
+ र्वजनिक अवकाश हैं। 2027 में फ़
+ िलिपींस में 12 सार्वजनिक अवक
+ ाश हैं। 2028 में फ़िलिपींस में 1
+ 2 सार्वजनिक अवकाश हैं।
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-ph-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:नव वर्ष दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-chinese-new-year@aeiou.now
+DTSTAMP:20260217T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:चीनी नव वर्ष
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-eidul-fitr@aeiou.now
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:ईद-उल-फ़ित्र
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1270970 https://www.pna.gov.ph/articles/1271401 https
+ ://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-maundy-thursday@aeiou.now
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:पुण्य गुरुवार (मॉन्डी थर्
+ सडे)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-good-friday@aeiou.now
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:गुड फ्राइडे
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-black-saturday@aeiou.now
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:पवित्र शनिवार
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-araw-ng-kagitingan@aeiou.now
+DTSTAMP:20260409T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:वीरता दिवस (अरव न्ग कागित
+ िंगन)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-labor-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:मज़दूर दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-eidul-adha@aeiou.now
+DTSTAMP:20260527T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:ईद-उल-अज़हा (बकरीद)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1275612 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-independence-day@aeiou.now
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:स्वतंत्रता दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-ninoy-aquino-day@aeiou.now
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:निनॉय एक्विनो दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-national-heroes-day@aeiou.now
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:राष्ट्रीय नायक दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-all-saints-day@aeiou.now
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:सर्व संत दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-all-souls-day@aeiou.now
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:सर्व आत्मा दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-bonifacio-day@aeiou.now
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:बोनिफ़ेसियो दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-immaculate-conception@aeiou.now
+DTSTAMP:20261208T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:मरियम के निष्कलंक गर्भाध
+ ान का पर्व
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-christmas-eve@aeiou.now
+DTSTAMP:20261224T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:क्रिसमस की पूर्व संध्या
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-christmas-day@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:क्रिसमस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-rizal-day@aeiou.now
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:रिज़ाल दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2026-last-day-of-the-year@aeiou.now
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:वर्ष का अंतिम दिन
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-new-years-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:नव वर्ष दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-chinese-new-year@aeiou.now
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:चीनी नव वर्ष
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-maundy-thursday@aeiou.now
+DTSTAMP:20270325T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:पुण्य गुरुवार (मॉन्डी थर्
+ सडे)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-good-friday@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:गुड फ्राइडे
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-black-saturday@aeiou.now
+DTSTAMP:20270327T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:पवित्र शनिवार
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-araw-ng-kagitingan@aeiou.now
+DTSTAMP:20270409T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:वीरता दिवस (अरव न्ग कागित
+ िंगन)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-labor-day@aeiou.now
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:मज़दूर दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-independence-day@aeiou.now
+DTSTAMP:20270612T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:स्वतंत्रता दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-ninoy-aquino-day@aeiou.now
+DTSTAMP:20270821T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:निनॉय एक्विनो दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-national-heroes-day@aeiou.now
+DTSTAMP:20270830T000000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:राष्ट्रीय नायक दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-all-saints-day@aeiou.now
+DTSTAMP:20271101T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:सर्व संत दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-all-souls-day@aeiou.now
+DTSTAMP:20271102T000000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:सर्व आत्मा दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-bonifacio-day@aeiou.now
+DTSTAMP:20271130T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:बोनिफ़ेसियो दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-immaculate-conception@aeiou.now
+DTSTAMP:20271208T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:मरियम के निष्कलंक गर्भाध
+ ान का पर्व
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-christmas-eve@aeiou.now
+DTSTAMP:20271224T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:क्रिसमस की पूर्व संध्या
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-christmas-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:क्रिसमस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-rizal-day@aeiou.now
+DTSTAMP:20271230T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:रिज़ाल दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2027-last-day-of-the-year@aeiou.now
+DTSTAMP:20271231T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:वर्ष का अंतिम दिन
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-new-years-day@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:नव वर्ष दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-maundy-thursday@aeiou.now
+DTSTAMP:20280413T000000Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:पुण्य गुरुवार (मॉन्डी थर्
+ सडे)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-good-friday@aeiou.now
+DTSTAMP:20280414T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:गुड फ्राइडे
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-national-heroes-day@aeiou.now
+DTSTAMP:20280828T000000Z
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:राष्ट्रीय नायक दिवस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-all-saints-day@aeiou.now
+DTSTAMP:20281101T000000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:सर्व संत दिवस
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-immaculate-conception@aeiou.now
+DTSTAMP:20281208T000000Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:मरियम के निष्कलंक गर्भाध
+ ान का पर्व
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:क्रिसमस
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-last-day-of-the-year@aeiou.now
+DTSTAMP:20281231T000000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:वर्ष का अंतिम दिन
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://hi.aeiou.now/holidays/ph/2028/
+END:VEVENT
+END:VCALENDAR
